@@ -12,7 +12,7 @@
 
 **Commits** in the initial weeks of the project were mostly completed at weekends with research carried out during the week i.e. commits to Github were not added daily
 
-**Bibliography** contained in the jupyter notebook is a reference to articles/ sites vistied or where a direct quote was used
+**Bibliography** contained in the jupyter notebook is a reference to articles/ sites visited or where a direct quote was used
 
 ## How to view assignment/ run notebook
 
