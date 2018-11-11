@@ -18,6 +18,5 @@
 
 The assignment is contained in a jupyter notebook file (.ipynb) that can be downloaded to your personal computer and run in jupyter notebook. It can also be viewed in Github.  
 
-
-
+The code was written in python using the Anaconda distribution platform. 
 
